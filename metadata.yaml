@@ -1,0 +1,25 @@
+_repo: Italian-Yesterdays-vol-2_55239
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fraser, Hugh, Mrs.
+    aliases:
+    - Fraser, Mary Crawford
+    - Fraser, Mrs. Hugh
+    birthdate: 1851
+    deathdate: 1922
+    gutenberg_agent_id: '40861'
+    url: http://www.gutenberg.org/2009/agents/40861
+description: ''
+gutenberg_issued: '2017-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55239'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Italian Yesterdays, vol. 2
+url: http://www.gutenberg.org/ebooks/55239
